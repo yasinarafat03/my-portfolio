@@ -1,10 +1,8 @@
-span{
-    color: orangered;
-   
+.banner-sup-title{
+    font-size: 40px;
 }
-h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+.banner-name{
+    font-size: 80px;   
 }
 img{
     height: 500px;
@@ -25,4 +23,21 @@ img{
     width: 50%;
  
     margin: 5px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
 }
