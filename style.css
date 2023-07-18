@@ -1,0 +1,28 @@
+span{
+    color: orangered;
+   
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+img{
+    height: 500px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+.first-part{
+    width: 100%;
+    
+    display: inline-flex;
+}
+.parts{
+    width: 50%;
+ 
+    margin: 5px;
+}
